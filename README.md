@@ -1,6 +1,6 @@
 <div>
      <span>
-          Part time developer of Tanjun
+          <b>Part time developer of <i>Tanjun</i></b>
         </span>
     <div align="center">
         <br>
@@ -16,7 +16,7 @@
       <img src="https://lanyard.cnrad.dev/api/766350321638309958" alt="Discord Presence"  height="200">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswa&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Top Langs" height="200">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aswa29&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Top Langs" height="170">
     </a>
   </div>
 
@@ -25,7 +25,7 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=aswa29&theme=react-dark" alt="Ashutosh's github activity graph" width="715">
     </a>
   </div>
-  <div>
+  <div align="center">
       <code>blub blub</code>
   </div>
 </div>
