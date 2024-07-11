@@ -9,7 +9,7 @@
         </a>
     </div>
     <div>
-        Studying @<a href="https://www.htl.rennweg.at">HTL Rennweg</a>
+        Studying IT in Vienna
     </div>
   <div align="center"; gap="50px">
     <a href="https://discord.com/users/7663503216383099581">
