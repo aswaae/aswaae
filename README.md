@@ -1,13 +1,4 @@
 <div>
-     <span>
-          <b>Part time developer of <i>Tanjun</i></b>
-        </span>
-    <div align="center">
-        <br>
-        <a href="https://docs.tanjun.bot" style="text-decoration: none; color: black;">
-            <img src="https://cdn.discordapp.com/attachments/890276921668161546/1257090747027427418/344394887-a3fdde70-b402-4a9c-89f3-35083942837e.png?ex=6683247d&is=6681d2fd&hm=70d79201d5d2f7cfe1ffe4f89098aacda20b72e4711d8a018f82694e6dbb1c53&" alt="Tanjun Logo" width="1500">
-        </a>
-    </div>
     <div>
         Studying IT in Vienna
     </div>
