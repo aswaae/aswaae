@@ -3,7 +3,7 @@
         Studying IT in Vienna
     </div>
   <div align="center"; gap="50px">
-    <a href="https://discord.com/users/7663503216383099581">
+    <a href="https://discord.com/users/766350321638309958">
       <img src="https://lanyard.cnrad.dev/api/766350321638309958" alt="Discord Presence"  height="200">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
