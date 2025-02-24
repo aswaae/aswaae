@@ -13,7 +13,7 @@
 
   <div align="center">
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=aswa29&theme=react-dark" alt="Ashutosh's github activity graph" width="715">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=aswaae&theme=react-dark" alt="Ashutosh's github activity graph" width="715">
     </a>
   </div>
   <div align="center">
